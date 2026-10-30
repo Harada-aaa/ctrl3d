@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Generated geometry from the examples
+examples/*.scad
+examples/*.stl
+examples/*.3mf
+
+# Local virtual environments
+.venv/
+venv/
